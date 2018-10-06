@@ -1,0 +1,997 @@
+# depslib dependency file v1.0
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\misc.c
+	"misc.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\misc.h
+	"stm32f10x.h"
+
+1487102406 c:\users\bogdan\desktop\m590e\test2_4\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\inc\system_stm32f10x.h
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1487097940 c:\users\bogdan\desktop\m590e\test2_4\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1487182666 source:c:\users\bogdan\desktop\m590e\test2_4\src\lcd.c
+	"LCD.h"
+
+1487625336 c:\users\bogdan\desktop\m590e\test2_4\src\lcd.h
+	"stm32f10x_conf.h"
+	"font.h"
+
+1487097940 source:c:\users\bogdan\desktop\m590e\test2_4\src\startup_stm32f10x_hd.s
+
+1487189927 source:c:\users\bogdan\desktop\m590e\test2_4\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1487631519 source:c:\users\bogdan\desktop\m590e\test2_4\src\main.c
+	"stm32f10x_conf.h"
+	"stm32f10x.h"
+	"font.h"
+	"LCD.h"
+	"ADC.h"
+	"encoder.h"
+	<math.h>
+
+1487149860 c:\users\bogdan\desktop\m590e\test2_4\src\font.h
+
+1487329948 source:c:\users\bogdan\desktop\m590e\test2_4\src\adc.c
+	"ADC.h"
+
+1487281944 c:\users\bogdan\desktop\m590e\test2_4\src\adc.h
+	"stm32f10x.h"
+	"stm32f10x_conf.h"
+
+1487634246 source:c:\users\bogdan\desktop\m590e\test2_4\src\encoder.c
+	"encoder.h"
+
+1487630480 c:\users\bogdan\desktop\m590e\test2_4\src\encoder.h
+	"stm32f10x.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\misc.c
+	"misc.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\misc.h
+	"stm32f10x.h"
+
+1487106008 g:\desktopp\m590e\test2_4\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1487101542 g:\desktopp\m590e\test2_4\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1487101542 g:\desktopp\m590e\test2_4\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487101542 g:\desktopp\m590e\test2_4\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487101542 g:\desktopp\m590e\test2_4\inc\system_stm32f10x.h
+
+1487101542 g:\desktopp\m590e\test2_4\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1487101542 g:\desktopp\m590e\test2_4\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:g:\desktopp\m590e\test2_4\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1487333550 source:g:\desktopp\m590e\test2_4\src\adc.c
+	"ADC.h"
+
+1487285546 g:\desktopp\m590e\test2_4\src\adc.h
+	"stm32f10x.h"
+	"stm32f10x_conf.h"
+
+1487637848 source:g:\desktopp\m590e\test2_4\src\encoder.c
+	"encoder.h"
+
+1487634082 g:\desktopp\m590e\test2_4\src\encoder.h
+	"stm32f10x.h"
+
+1487186268 source:g:\desktopp\m590e\test2_4\src\lcd.c
+	"LCD.h"
+
+1487628938 g:\desktopp\m590e\test2_4\src\lcd.h
+	"stm32f10x_conf.h"
+	"font.h"
+
+1487153462 g:\desktopp\m590e\test2_4\src\font.h
+
+1504626916 source:g:\desktopp\m590e\test2_4\src\main.c
+	"stm32f10x_conf.h"
+	"stm32f10x.h"
+	"font.h"
+	"LCD.h"
+	"ADC.h"
+	"encoder.h"
+	<math.h>
+
+1487101542 source:g:\desktopp\m590e\test2_4\src\startup_stm32f10x_hd.s
+
+1487193528 source:g:\desktopp\m590e\test2_4\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\misc.c
+	"misc.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\misc.h
+	"stm32f10x.h"
+
+1487102408 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\inc\system_stm32f10x.h
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1487097942 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1514239220 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\adc.c
+	"ADC.h"
+
+1487281946 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\adc.h
+	"stm32f10x.h"
+	"stm32f10x_conf.h"
+
+1508026898 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\encoder.c
+	"encoder.h"
+
+1507394788 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\encoder.h
+	"stm32f10x.h"
+
+1514835726 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\main.c
+	"stm32f10x_conf.h"
+	"stm32f10x.h"
+	"font.h"
+	"LCD.h"
+	"ADC.h"
+	"PWM.h"
+	"encoder.h"
+	<math.h>
+
+1487149862 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\font.h
+
+1487625338 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\lcd.h
+	"stm32f10x_conf.h"
+	"font.h"
+
+1508004951 c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\pwm.h
+	"stm32f10x.h"
+	"stm32f10x_conf.h"
+
+1508027054 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\pwm.c
+	"PWM.h"
+
+1487097942 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\startup_stm32f10x_hd.s
+
+1487189928 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1508025032 source:c:\users\bogdan\desktop\ÍÎÂÛÉ ÁÏ\test2_4_1\src\lcd.c
+	"LCD.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\misc.c
+	"misc.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\misc.h
+	"stm32f10x.h"
+
+1487106008 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\inc\system_stm32f10x.h
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1487101542 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1514242820 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\adc.c
+	"ADC.h"
+
+1487285546 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\adc.h
+	"stm32f10x.h"
+	"stm32f10x_conf.h"
+
+1508030498 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\encoder.c
+	"encoder.h"
+
+1507398388 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\encoder.h
+	"stm32f10x.h"
+
+1538692762 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\lcd.c
+	"LCD.h"
+
+1487628938 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\lcd.h
+	"stm32f10x_conf.h"
+	"font.h"
+
+1487153462 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\font.h
+
+1538702627 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\main.c
+	"stm32f10x_conf.h"
+	"stm32f10x.h"
+	"font.h"
+	"LCD.h"
+	"ADC.h"
+	"PWM.h"
+	"encoder.h"
+	<math.h>
+	"uart.h"
+	"spim.h"
+	"nrf24.h"
+	<string.h>
+
+1508008551 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\pwm.h
+	"stm32f10x.h"
+	"stm32f10x_conf.h"
+
+1538692703 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\pwm.c
+	"PWM.h"
+
+1487101542 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\startup_stm32f10x_hd.s
+
+1487193528 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1460289272 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\delay.c
+	"delay.h"
+
+1460289272 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\delay.h
+
+1460289272 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\gpio.c
+	<stm32f10x_gpio.h>
+	<stm32f10x_rcc.h>
+	"gpio.h"
+
+1538139592 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\gpio.h
+
+1537922093 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\uart.h
+
+1538138322 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\spim.h
+
+1538702667 c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\nrf24.h
+
+1538771060 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\nrf24.c
+	<stm32f10x_i2c.h>
+	<string.h>
+	<gpio.h>
+	<spim.h>
+	<delay.h>
+	"nrf24.h"
+
+1538811749 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\spim.c
+	<stm32f10x_gpio.h>
+	<stm32f10x_spi.h>
+	<stm32f10x_rcc.h>
+	"spim.h"
+
+1537922135 source:c:\נמב סע³כ 10\םמגûי בן\test2_4_1\src\uart.c
+	"stm32f10x_conf.h"
+	"uart.h"
+

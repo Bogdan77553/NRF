@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="inc\stm32f10x.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="43658" topLine="759" />
+		</Cursor>
+	</File>
+	<File name="inc\stm32f10x_conf.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="inc\system_stm32f10x.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1695" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_adc.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10605" topLine="196" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_dac.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="887" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_gpio.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2516" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_rcc.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22725" topLine="529" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_tim.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45163" topLine="1039" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_dac.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7723" topLine="185" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_gpio.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15058" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_spi.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18709" topLine="544" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_tim.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6197" topLine="201" />
+		</Cursor>
+	</File>
+	<File name="src\ADC.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="813" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="src\ADC.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="163" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\delay.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1132" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\encoder.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2520" topLine="37" />
+		</Cursor>
+		<Folding>
+			<Collapse line="42" />
+		</Folding>
+	</File>
+	<File name="src\encoder.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="128" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\font.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14893" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+			<Collapse line="31" />
+			<Collapse line="129" />
+		</Folding>
+	</File>
+	<File name="src\LCD.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3921" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="src\LCD.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2171" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9861" topLine="42" />
+		</Cursor>
+		<Folding>
+			<Collapse line="31" />
+			<Collapse line="53" />
+			<Collapse line="108" />
+			<Collapse line="140" />
+			<Collapse line="156" />
+			<Collapse line="175" />
+			<Collapse line="196" />
+			<Collapse line="358" />
+		</Folding>
+	</File>
+	<File name="src\nrf24.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="26622" topLine="571" />
+		</Cursor>
+	</File>
+	<File name="src\nrf24.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4525" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="src\PWM.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2935" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="src\PWM.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="239" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\spim.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4787" topLine="104" />
+		</Cursor>
+	</File>
+	<File name="src\system_stm32f10x.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4802" topLine="424" />
+		</Cursor>
+	</File>
+</EmBitz_layout_file>
