@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\misc.c
+	"misc.h"
+
+1538845610 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\misc.h
+	"stm32f4xx.h"
+
+1538845610 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\inc\stm32f4xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+	"stm32f4xx_conf.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\cmsis\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\cmsis\core_cm4_simd.h
+	<cmsis_iar.h>
+
+1538845610 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\inc\system_stm32f4xx.h
+
+1538845610 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\inc\stm32f4xx_conf.h
+	"stm32f4xx_adc.h"
+	"stm32f4xx_can.h"
+	"stm32f4xx_crc.h"
+	"stm32f4xx_cryp.h"
+	"stm32f4xx_dac.h"
+	"stm32f4xx_dbgmcu.h"
+	"stm32f4xx_dcmi.h"
+	"stm32f4xx_dma.h"
+	"stm32f4xx_exti.h"
+	"stm32f4xx_flash.h"
+	"stm32f4xx_fsmc.h"
+	"stm32f4xx_hash.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_iwdg.h"
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rtc.h"
+	"stm32f4xx_sdio.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_tim.h"
+	"stm32f4xx_usart.h"
+	"stm32f4xx_wwdg.h"
+	"misc.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_adc.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_can.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_crc.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_cryp.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_dac.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_dbgmcu.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_dcmi.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_dma.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_exti.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_flash.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_fsmc.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_hash.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_gpio.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_i2c.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_iwdg.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_pwr.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_rcc.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_rng.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_rtc.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_sdio.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_spi.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_syscfg.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_tim.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_usart.h
+	"stm32f4xx.h"
+
+1538845611 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\inc\stm32f4xx_wwdg.h
+	"stm32f4xx.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_adc.c
+	"stm32f4xx_adc.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_can.c
+	"stm32f4xx_can.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_crc.c
+	"stm32f4xx_crc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_cryp.c
+	"stm32f4xx_cryp.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_cryp_aes.c
+	"stm32f4xx_cryp.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_cryp_des.c
+	"stm32f4xx_cryp.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_cryp_tdes.c
+	"stm32f4xx_cryp.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_dac.c
+	"stm32f4xx_dac.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_dbgmcu.c
+	"stm32f4xx_dbgmcu.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_dcmi.c
+	"stm32f4xx_dcmi.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_dma.c
+	"stm32f4xx_dma.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_exti.c
+	"stm32f4xx_exti.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_flash.c
+	"stm32f4xx_flash.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_fsmc.c
+	"stm32f4xx_fsmc.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_gpio.c
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_hash.c
+	"stm32f4xx_hash.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_hash_md5.c
+	"stm32f4xx_hash.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_hash_sha1.c
+	"stm32f4xx_hash.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_i2c.c
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_iwdg.c
+	"stm32f4xx_iwdg.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_pwr.c
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_rcc.c
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_rng.c
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_rtc.c
+	"stm32f4xx_rtc.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_sdio.c
+	"stm32f4xx_sdio.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_spi.c
+	"stm32f4xx_spi.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_syscfg.c
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_tim.c
+	"stm32f4xx_tim.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_usart.c
+	"stm32f4xx_usart.h"
+	"stm32f4xx_rcc.h"
+
+1538845611 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\spl\src\stm32f4xx_wwdg.c
+	"stm32f4xx_wwdg.h"
+	"stm32f4xx_rcc.h"
+
+1538856142 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\main.c
+	"stm32f4xx.h"
+	"tm_stm32f4_nrf24l01.h"
+	"tm_stm32f4_delay.h"
+	"tm_stm32f4_usart.h"
+	<stdio.h>
+
+1538856205 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_nrf24l01.h
+	"stm32f4xx.h"
+	"tm_stm32f4_spi.h"
+	"tm_stm32f4_gpio.h"
+
+1538846912 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_spi.h
+	"stm32f4xx.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_spi.h"
+	"attributes.h"
+	"tm_stm32f4_gpio.h"
+
+1538847200 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\attributes.h
+
+1538846726 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_gpio.h
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+
+1538846887 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_delay.h
+	"stm32f4xx.h"
+	"stm32f4xx_rcc.h"
+	"attributes.h"
+	"misc.h"
+	"stm32f4xx_tim.h"
+	"tm_stm32f4_timer_properties.h"
+	"stdlib.h"
+
+1538847265 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_timer_properties.h
+	"stm32f4xx.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_tim.h"
+
+1538845610 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\startup_stm32f4xx.s
+
+1538847632 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1442489232 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_delay.c
+	"tm_stm32f4_delay.h"
+
+1434021409 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_gpio.c
+	"tm_stm32f4_gpio.h"
+
+1538856186 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_nrf24l01.c
+	"tm_stm32f4_nrf24l01.h"
+
+1439639174 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_spi.c
+	"tm_stm32f4_spi.h"
+
+1538847240 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_timer_properties.c
+	"tm_stm32f4_timer_properties.h"
+
+1538855669 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_usart.h
+	"misc.h"
+	"stm32f4xx.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_usart.h"
+	"attributes.h"
+	"tm_stm32f4_gpio.h"
+
+1438866427 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f407-nrf-tx\stm32f407-nrf-tx\src\tm_stm32f4_usart.c
+	"tm_stm32f4_usart.h"
+

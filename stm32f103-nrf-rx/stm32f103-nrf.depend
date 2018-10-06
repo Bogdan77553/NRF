@@ -253,3 +253,257 @@
 	"stm32f10x_conf.h"
 	"uart.h"
 
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\misc.c
+	"misc.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\misc.h
+	"stm32f10x.h"
+
+1537918685 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1537918459 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1537918459 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1537918459 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\system_stm32f10x.h
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1537918458 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1537918459 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1537918459 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1460289272 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\delay.c
+	"delay.h"
+
+1460289272 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\delay.h
+
+1460289272 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\gpio.c
+	<stm32f10x_gpio.h>
+	<stm32f10x_rcc.h>
+	"gpio.h"
+
+1538139592 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\gpio.h
+
+1538706818 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\main.c
+	"stm32f10x_conf.h"
+	"uart.h"
+	"spi.h"
+	"spim.h"
+	"nrf24.h"
+	<string.h>
+
+1537922093 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\uart.h
+
+1537922750 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\spi.h
+
+1538138322 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\spim.h
+
+1538143725 c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\inc\nrf24.h
+
+1538771772 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\nrf24.c
+	<stm32f10x_i2c.h>
+	<string.h>
+	<gpio.h>
+	<spim.h>
+	<delay.h>
+	"nrf24.h"
+
+1537922834 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\spi.c
+	"stm32f10x_conf.h"
+	"spi.h"
+
+1538837073 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\spim.c
+	<stm32f10x_gpio.h>
+	<stm32f10x_spi.h>
+	<stm32f10x_rcc.h>
+	"spim.h"
+
+1537918458 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\startup_stm32f10x_md.s
+
+1537918458 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1537922135 source:c:\users\bogdan\desktop\новая папка (2)\project\git\stm32f103-nrf-rx\src\uart.c
+	"stm32f10x_conf.h"
+	"uart.h"
+

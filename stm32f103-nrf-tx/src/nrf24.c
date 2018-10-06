@@ -522,7 +522,9 @@ void nrf24_RxPipe_Setup(uint8_t Pipe, uint8_t *pAddress, uint8_t PayloadSize)
     nrf24_write_regs(nrf24_SPIx, NRF24_REG_RX_ADDR_P0 + Pipe, pAddress, 5);
   else
     nrf24_write_regs(nrf24_SPIx, NRF24_REG_RX_ADDR_P0 + Pipe, pAddress, 1);
+uint8_t pbufff[5];
 
+    nrf24_read_regs(nrf24_SPIx, NRF24_REG_RX_ADDR_P0 + Pipe, pbufff, 5);
   if (!RxPipes[Pipe].bDynPayLoad)       // Размер пакета статический
   {
     // Устанавливаем размер пакета для соединения
@@ -678,12 +680,15 @@ void nrf24_init(SPI_TypeDef* SPIx, uint8_t Channel)
   NRF24_CSN_HIGH();
   NRF24_CE_LOW();
 
-
   // Инициализируем SPI
   spim_init(SPIx, 8);
 
   // Задержка
   delay_ms(100);
+  uint8_t ret = 0;
+  ret = nrf24_read_reg(SPIx,NRF24_REG_CONFIG);
+
+
 
   // Настраиваем автоповтор передачи
   nrf24_AutoRetrasmission_Setup(5, 2);          // 5 попыток с периодом 0.75 мс
@@ -696,7 +701,7 @@ void nrf24_init(SPI_TypeDef* SPIx, uint8_t Channel)
   // Сбрасываем флаги прерываний nRF24
   nrf24_ResetStateFlags(NRF24_bMAX_RT_Mask | NRF24_bTX_DS_Mask | NRF24_bRX_DR_Mask);
   // Устанавливаем канал
-  uint8_t ret = nrf24_SetChannel(Channel);
+  nrf24_SetChannel(Channel);
   // Очищаем буферы Rx/Tx
   ret = nrf24_FlushRx();
   ret = nrf24_FlushTx();

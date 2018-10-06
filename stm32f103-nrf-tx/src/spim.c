@@ -29,6 +29,8 @@ void spim_init(SPI_TypeDef* SPIx, uint8_t WordLen)
     RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB, ENABLE);
   }
 
+
+
   // Настраиваем SPI
   SPI_Cmd(SPIx, DISABLE);
   SPI_InitTypeDef SPI_InitStruct;
